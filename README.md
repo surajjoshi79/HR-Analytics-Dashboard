@@ -33,7 +33,7 @@ The dashboard focuses entirely on **employee attrition**, offering insights acro
 
 ## 📂 Data Source
 
-- `HR_Analytics.csv` — Contains anonymized employee data including age, salary, education, job role, and attrition status.
+- `HR_Analytics.csv` — Contains anonymized employee data including age, salary, education, job role, and attrition status and many more details.
 
 ## 🛠️ Tools Used
 
@@ -56,7 +56,7 @@ The dashboard focuses entirely on **employee attrition**, offering insights acro
 
 ## 📷 Screenshot
 
-> Dashboard preview available in the repository.
+![HR Dashboard Preview](images/hr_dashboard.png)
 
 ## 📬 Contact
 
