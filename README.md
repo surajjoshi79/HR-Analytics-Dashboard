@@ -56,7 +56,7 @@ The dashboard focuses entirely on **employee attrition**, offering insights acro
 
 ## 📷 Screenshot
 
-![HR Dashboard Preview](images/hr_dashboard.png)
+![HR Dashboard Preview](Screenshot 2025-08-20 200416.png)
 
 ## 📬 Contact
 
